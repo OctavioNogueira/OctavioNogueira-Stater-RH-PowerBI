@@ -2,7 +2,7 @@
 
 # Dashboard de RH 
 ## Primeiro projeto em Power BI 
-### Foi realizado o acompanhamento do RH em questões de seus funcionários , filiais , salários entre outras funcionalidades 
+### Projeto desenvolvido especificamente para o setor de Recursos Humanos, com o objetivo de realizar verificações de dados dos colaboradores, filiais, remunerações e diversas outras análises.
 
 
 ## Módulos:
